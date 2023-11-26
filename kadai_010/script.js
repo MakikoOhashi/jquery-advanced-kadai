@@ -66,6 +66,10 @@ $('#message').blur(function(){
 $('#agree').blur(function(){
     inputCheck();
 });
+$('#prefecture').blur(function(){
+    inputCheck();
+});
+
 
 
 
